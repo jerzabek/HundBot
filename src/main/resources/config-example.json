@@ -1,0 +1,10 @@
+{
+	"key": "mySuperSpicyBotKeyThatYouShouldn'tShareWithAnyone",
+	"owner": "yourUserID",
+	"commands": 1800,
+	"admins":[
+		218787928910961665,
+		225791091096141795,
+		IDs of the people that can use Admin commands
+	]
+}
