@@ -13,18 +13,13 @@
             <id>jcenter</id>
             <url>http://jcenter.bintray.com</url>
         </repository>
-		<repository>
+		<!--<repository>
 		    <id>jitpack.io</id>
 		    <url>https://jitpack.io</url>
-		</repository>
+		</repository>-->
     </repositories>
 
     <dependencies>
-		<dependency>
-			<groupId>com.github.jerzabek</groupId>
-			<artifactId>HundBot</artifactId>
-			<version>master-SNAPSHOT</version>
-		</dependency>
 		
         <dependency>
             <groupId>com.discord4j</groupId>
