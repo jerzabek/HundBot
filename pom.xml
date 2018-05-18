@@ -23,7 +23,7 @@
 		<dependency>
 			<groupId>com.github.jerzabek</groupId>
 			<artifactId>HundBot</artifactId>
-			<version>-SNAPSHOT</version>
+			<version>master-SNAPSHOT</version>
 		</dependency>
 		
         <dependency>
